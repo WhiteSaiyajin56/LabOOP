@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\infap\infa6-1\infa6-1\Source.cpp(34,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+E:\infap\infa6-1\infa6-1\Source.cpp(39,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+E:\infap\infa6-1\infa6-1\Source.cpp(44,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  infa6-1.vcxproj -> E:\infap\infa6-1\x64\Debug\infa6-1.exe

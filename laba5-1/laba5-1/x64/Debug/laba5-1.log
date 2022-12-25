@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\infap\laba5-1\laba5-1\Source.cpp(13,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\infap\laba5-1\laba5-1\Source.cpp(13,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  laba5-1.vcxproj -> E:\infap\laba5-1\x64\Debug\laba5-1.exe

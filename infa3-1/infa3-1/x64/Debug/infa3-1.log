@@ -1,0 +1,3 @@
+﻿  infa5.cpp
+E:\infap\files\infa5.cpp(6,12): warning C4101: z: неиспользованная локальная переменная
+  infa3-1.vcxproj -> E:\infap\infa3-1\x64\Debug\infa3-1.exe

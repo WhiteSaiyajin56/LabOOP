@@ -1,0 +1,4 @@
+﻿  infa6.cpp
+E:\infap\files\infa6.cpp(13,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\infap\files\infa6.cpp(21,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  infa3-2.vcxproj -> E:\infap\infa3-2\x64\Debug\infa3-2.exe
